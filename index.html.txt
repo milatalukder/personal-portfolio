@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mila Talukder</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hello, I'm Mila</h1>
+  <p>Aspiring Computer Science student interested in programming and cybersecurity.</p>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS (basic)</li>
+    <li>Python (learning)</li>
+  </ul>
+
+  <h2>About Me</h2>
+  <p>I enjoy learning technology and building projects as I prepare to study Computer Science.</p>
+</body>
+</html>
